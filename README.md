@@ -1,2 +1,2 @@
-# MachineLearining
+# MachineLearning
   Implementations of basic ML algorithms all by myself
